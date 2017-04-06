@@ -1,11 +1,14 @@
 {
   "name": "spidergram",
   "version": "0.1.0",
+  "description": "An Instagram like app made with React and Firebase just for educational purpose.",
   "private": true,
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
+  "author": "Gian Vera",
+  "license": "MIT",
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
