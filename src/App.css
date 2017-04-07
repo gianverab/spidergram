@@ -15,6 +15,13 @@
 
 .App-intro {
   font-size: large;
+  padding: 20px 0;
+}
+
+.App-intro img {
+  max-width: 160px;
+  height: auto;
+  border-radius: 50%;
 }
 
 @keyframes App-logo-spin {
