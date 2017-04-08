@@ -18,10 +18,14 @@
   padding: 20px 0;
 }
 
-.App-intro img {
+.App-user {
   max-width: 160px;
   height: auto;
   border-radius: 50%;
+}
+
+.input-file {
+  margin: 20px 0; 
 }
 
 @keyframes App-logo-spin {
